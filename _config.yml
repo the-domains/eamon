@@ -1,0 +1,28 @@
+name: Eamon Niknafs
+favicon: null
+layout_spectrum: 0.9919559720437974
+typography_spectrum: 0.8172911540605128
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.3609369487967342
+  lightness: 0.5272934678941965
+  saturation: 0.13769073504954576
+  rhythmicContrast: 0.9746421631425619
+purpose: []
