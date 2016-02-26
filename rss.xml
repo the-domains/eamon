@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Eamon Niknafs]]></title>
         <description><![CDATA[Eamon Niknafs]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/eamon/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 20:45:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 26 Feb 2016 20:51:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/eamon/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9dd0e6fd-f822-4130-a8f8-e876012dc43e.png">]]></description>
+            <link>https://thegrid.ai/eamon/46c2ef52-88be-4ac2-b7c9-2c7cf5ba33cb/index.html</link>
+            <guid isPermaLink="false">46c2ef52-88be-4ac2-b7c9-2c7cf5ba33cb</guid>
+            <pubDate>Fri, 26 Feb 2016 20:49:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/03bb0098-b2d9-43c4-a08b-4ac21908d4f6.png">]]></description>
-            <link>undefined4315f09c-b8a6-490a-84e8-aa1cc25e38e4/index.html</link>
+            <link>https://thegrid.ai/eamon/4315f09c-b8a6-490a-84e8-aa1cc25e38e4/index.html</link>
             <guid isPermaLink="false">4315f09c-b8a6-490a-84e8-aa1cc25e38e4</guid>
             <pubDate>Fri, 26 Feb 2016 20:44:30 GMT</pubDate>
         </item>
